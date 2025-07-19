@@ -19,5 +19,5 @@ Have python installed on your compopo
 ---
 
 1. Download the calc.py file
-2. Enter 'python /path/to/calc.py'
+2. Enter `python /path/to/calc.py`
 3. Enjoy the show
