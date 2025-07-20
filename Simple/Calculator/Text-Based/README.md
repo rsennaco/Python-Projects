@@ -4,7 +4,7 @@
 
 Feel it's glory
 
-![Example](../Pics/text-calc.png)
+![Example](../Assets/text-calc.png)
 
 ## How to use this thing
 

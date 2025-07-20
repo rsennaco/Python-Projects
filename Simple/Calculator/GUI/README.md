@@ -4,7 +4,7 @@ Woah - buttons and stuff
 
 ### Demo
 
-![demo](../Pics/gui-calc.gif)
+![demo](../Assets/gui-calc.gif)
 
 ## How to use this thing
 
