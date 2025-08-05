@@ -1,7 +1,5 @@
 # Auditing AWS Security Groups
 
----
-
 ### The Problem
 
 I was tasked with figuring out the use case for a number of security groups in our AWS environment that had a description missing.
