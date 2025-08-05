@@ -2,7 +2,6 @@ import json
 import pandas as pd
 import argparse
 import re
-import openpyxl
 
 def oxford_comma(items):
     items = list(items)
